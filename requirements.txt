@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+llama_api
+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
+
+groq
+
